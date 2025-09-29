@@ -22,7 +22,7 @@ Insights and recommendations are provided on the following key areas:
 - **Payment Friction**
 
 
-An interactive Tableau dashboard used to report churn and retention trends can be found here: _(insert Tableau Public link)_  
+An interactive Tableau dashboard used to report churn and retention trends can be found here: _([Tableau Dashboard](https://public.tableau.com/app/profile/matt.tinker/viz/telco_churn_analysis_project/IBM_Overview))_  
 
 ---
 
