@@ -34,7 +34,8 @@ An interactive Tableau dashboard used to report churn and retention trends can b
 - **Retention multiplies value.** Average LTV increased from **$276** in early cohorts to **$5,181** for long-tenure customers.  
 - **Contract & payment type matter most.** **Month-to-month contracts (42.71% churn)** and **Electronic check payments (45.29% churn)** are high-risk segments to prioritize.  
 
-[Visualization: snapshot of Tableau Overview dashboard]
+[Visualization: snapshot of Tableau Overview Dashboard]<img width="1399" height="864" alt="Overview" src="https://github.com/user-attachments/assets/be77ff3c-47a6-477d-93de-369bd4e5a79d" />
+
 
 ---
 
